@@ -1,3 +1,3 @@
 <?php
-Hello World
+echo "Hello World.  This is to test the gitHub commit";
 ?>
